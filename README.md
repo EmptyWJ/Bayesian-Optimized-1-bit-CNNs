@@ -20,7 +20,7 @@ Run the script ```evaluate_imagenet.sh``` and the accuracy on validation set is 
 ```
 @inproceedings{gu2019bonn,
   title={Bayesian Optimized 1-bit CNNs},
-  author={Gu, Jiaxin and Zhao, Junhe and Jiang, Xiaolong and Zhang, Baochang and Liu Jianzhuang and Guo, Guodong and Ji, Rongrong},
+  author={Zhao, Junhe and Gu, Jiaxin and Zhang, Baochang and Jiang, Xiaolong and Ji, Rongrong and Liu Jianzhuang and Guo, Guodong },
   booktitle={Proceedings of the IEEE International Conference on Computer Vision},
   year={2019}
 }
